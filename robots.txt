@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://loharatech.github.io/codo-landing-page/sitemap.xml

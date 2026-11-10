@@ -1,0 +1,13 @@
+{
+  "name": "CODO by Constellation Chargers",
+  "short_name": "CODO",
+  "description": "Resident-focused EV charging for condominiums. Charge where you live and sleep.",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#101827",
+  "icons": [
+    { "src": "assets/img/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/img/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
